@@ -14,7 +14,9 @@
 ## Estou aprendendo:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="120" height="45"/>
 
-<p align="center"> <a href="https://github.com/jadedinizz"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadedinizz&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadedinizz&layout=compact&langs_count=8&theme=catppuccin_latte"/> </a>
+<p align="center"> 
+<a href="https://github.com/jadedinizz">
+<img height=180em src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadedinizz&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/> <img height=180em src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadedinizz&layout=compact&langs_count=8&theme=catppuccin_latte"/> </a>
 </p>
 
 ## Contatos:
