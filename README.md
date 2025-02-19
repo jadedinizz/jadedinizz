@@ -5,10 +5,11 @@
 </br>
 <div display="inline-block">
  <p align="left">🔍Estou aprendendo a usar o github para registrar meu desenvolvimento acadêmico e eventualmente profissional;</p>
- <p align="left">👩🏽‍💻 Estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://unifip.edu.br/inicio">UNIFIP<a>;</p>
+ <p align="left">👩🏽‍💻 Atualmente cursando o segundo periódo em Análise e Desenvolvimento de Sistemas na <a href="https://unifip.edu.br/inicio">UNIFIP<a>;</p>
  <p align="left">📚 Tenho estudado Java, Python, Html e busco aumentar meu nível em cada uma delas;</p>
- <p align="left">☕🏋🏽‍♀️ Só acordo com café, amo esportes (sou uma aspirante a atleta) e falo sobre musculação com certa frequência.</p>
-</div>
+ <p align="left">☕🏋🏽‍♀️ Só acordo com café, amo esportes (sou uma aspirante a atleta) e falo sobre musculação com certa frequência;</p>
+ <p align="left">📫 Você pode falar comigo pelo <a href="https://wa.me/5583999273302">Whatsapp<a> ou pelo <a href="https://instagram.com/jadedinizz_">Instagram<a>.</p>
+
 
 ## Estou aprendendo:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="120" height="45"/>
