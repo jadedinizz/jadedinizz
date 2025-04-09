@@ -6,7 +6,7 @@
 <div display="inline-block">
  <p align="left">🔍Estou aprendendo a usar o github para registrar meu desenvolvimento acadêmico e eventualmente profissional;</p>
  <p align="left">👩🏽‍💻 Atualmente cursando o segundo periódo em Análise e Desenvolvimento de Sistemas na <a href="https://unifip.edu.br/inicio">UNIFIP<a>;</p>
- <p align="left">📚 Tenho estudado Java, Python, Html e busco aumentar meu nível em cada uma delas;</p>
+ <p align="left">📚 Tenho estudado Java, Python, Html, CSS, e JavaScript e busco aumentar meu conhecimento diariamente;</p>
  <p align="left">☕🏋🏽‍♀️ Só acordo com café, amo esportes (sou uma aspirante a atleta) e falo sobre musculação com certa frequência;</p>
  <p align="left">📫 Você pode falar comigo pelo <a href="https://wa.me/5583999273302">Whatsapp<a> ou pelo <a href="https://instagram.com/jadedinizz_">Instagram<a>.</p>
 
