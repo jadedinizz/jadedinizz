@@ -3,10 +3,10 @@
 
 
 <div align="left">
- 👩🏽‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2º período) na [UNIFIP](https://unifip.edu.br/inicio).  
- 📚 Tenho me dedicado a aprender Python, Django, Desenvolvimento Web e NodeJS — buscando crescer um pouco mais a cada dia.  
- ☕ Café é meu combustível! Amo ler livros e sou apaixonada por esportes e musculação.  
- 📫 Você pode entrar em contato comigo pelo [WhatsApp](https://wa.me/5583999273302) ou [Instagram](https://instagram.com/jadedinizz_).
+ 👩🏽‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2º período) na [UNIFIP](https://unifip.edu.br/inicio). <br>  
+ 📚 Tenho me dedicado a aprender Python, Django, Desenvolvimento Web e NodeJS — buscando crescer um pouco mais a cada dia. <br>  
+ ☕ Café é meu combustível! Amo ler livros e sou apaixonada por esportes e musculação. <br>
+ 📫 Você pode entrar em contato comigo pelo [WhatsApp](https://wa.me/5583999273302) ou [Instagram](https://instagram.com/jadedinizz_). <br>
 </div>
 
 ## 🚀 Estou aprendendo:
@@ -22,8 +22,8 @@
 
 </div>
  <a href="https://github.com/jadedinizz">
-  <img height=180em src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadedinizz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
-  <img height=180em src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadedinizz&layout=compact&langs_count=8&theme=gotham"/>
+  <img height=180em align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadedinizz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadedinizz&layout=compact&langs_count=8&theme=gotham"/>
  </a>
 </div>
 
