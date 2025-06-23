@@ -20,10 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
-</div>
+<div>
  <a href="https://github.com/jadedinizz">
-  <img height=180em align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadedinizz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadedinizz&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadedinizz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadedinizz&layout=compact&langs_count=8&theme=gotham"/>
  </a>
 </div>
 
