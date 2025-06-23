@@ -3,10 +3,10 @@
 
 
 <div align="left">
- 👩🏽‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2º período) na [UNIFIP](https://unifip.edu.br/inicio). <br>  
+ 👩🏽‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas (2º período) na <a href="https://unifip.edu.br/inicio">UNIFIP<a>. <br>  
  📚 Tenho me dedicado a aprender Python, Django, Desenvolvimento Web e NodeJS — buscando crescer um pouco mais a cada dia. <br>  
  ☕ Café é meu combustível! Amo ler livros e sou apaixonada por esportes e musculação. <br>
- 📫 Você pode entrar em contato comigo pelo [WhatsApp](https://wa.me/5583999273302) ou [Instagram](https://instagram.com/jadedinizz_). <br>
+ 📫 Você pode entrar em contato comigo pelo <a href="https://wa.me/5583999273302">Whatsapp<a> ou <a href="https://instagram.com/jadedinizz_">Instagram<a>. <br>
 </div>
 
 ## 🚀 Estou aprendendo:
