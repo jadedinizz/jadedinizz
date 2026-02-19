@@ -24,15 +24,6 @@
 
 </div>
 
-<br/>
-
-<div>
- <a href="https://github.com/jadedinizz">
-  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadedinizz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadedinizz&layout=compact&langs_count=8&theme=gotham"/>
- </a>
-</div>
-
 ## Contatos:
 
 <div>
