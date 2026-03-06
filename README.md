@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=django&theme=dark&perline=40"/>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=40"/> 
   <img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=40"/>
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark&perline=40"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=40"/>
 
 </div>
