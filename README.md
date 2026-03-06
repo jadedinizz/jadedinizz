@@ -14,12 +14,15 @@
 <div align="left">
 
   <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=40"/>
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=40"/>
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=40"/>
   <img src="https://skillicons.dev/icons?i=django&theme=dark&perline=40"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=light&perline=40"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=light&perline=40"/>
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=40"/>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=40"/> 
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark&perline=40"/>
   <img src="https://skillicons.dev/icons?i=docker&theme=dark&perline=40"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark&perline=40"/>
+  
 
 </div>
 
